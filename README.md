@@ -5,3 +5,5 @@
 Jupyter notebook executable in binder: click badge above, or access at the following URL:
 
 https://mybinder.org/v2/gh/dlmatra/lecture_uvanalysis/master?filepath=index.ipynb
+
+Otherwise, download the material directly and execute the index.ipynb notebook which reads data from the data folder.
